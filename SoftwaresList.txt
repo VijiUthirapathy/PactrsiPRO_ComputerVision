@@ -1,0 +1,17 @@
+1.	Software development Kit(SDK)
+
+	Download and Install Microsoft visual studio 2017 for windows 7 (x64) from the link- https://www.visualstudio.com/downloads/
+
+2.	Libraries need to be installed:
+i.	PCL 1.8.1 (PointCloudLibrary)
+        PCL has dependencies on third party libraries like Boost, Eigen, etc.     These need to be installed as pre-       requisite. PCL is packaged along with its dependencies and is available for easy installation on this linkhttp://unanancyowen.com/pcl181 for Visual Studio 2015 and 2017.
+        Refer the screenshot, Click on the PCL 1.8.1 All-in-one-Installer MSVC2017 x64. It contains PCL 1.8.1 and 3rd Party libraries also.
+ 
+
+ii.	Opencv 3.2.0
+      	Download and install opencv 3.2.0 from the below link: https://opencv.org/releases.html.
+
+3. Meshlab (To Visualize the pointcloud)(.ply format)
+	Link - http://www.meshlab.net/#download
+
+
